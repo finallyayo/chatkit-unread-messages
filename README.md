@@ -1,6 +1,6 @@
 # Chatkit Unread Message Count
 
-Display the unread message count in a room with Chatkit. Tutorial:
+Display the unread message count in a room with Chatkit. Tutorial: https://pusher.com/tutorials/unread-messages-react
 
 ## Getting Started
 
